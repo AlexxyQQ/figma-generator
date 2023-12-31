@@ -15,7 +15,7 @@ def create_svg_element(color_code, name, color_map, color_shade_name):
     # Create SVG content without the 'name' label text
     svg_content = f'<svg id="{name}" width="300" height="50" xmlns="http://www.w3.org/2000/svg">' \
                   f'<rect id="{name}" width="60" height="60" fill="{fill_color}" />' \
-                  f'<rect id="primitive-{color_shade_name}" width="65" height="65" fill="{fill_color}" />' \
+                  f'<rect id="{color_shade_name}" width="65" height="65" fill="{fill_color}" />' \
                   f'<text x="60" y="30" fill="black">{name}: {fill_color}</text>' \
                   f'</svg>'
     return svg_content

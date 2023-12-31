@@ -47,5 +47,7 @@
   "inverse_on_surface": "grey-200",
   "inverse_primary": "primary-400",
   "scrim": "grey-0",
-  "shadow": "grey-0"
+  "shadow": "grey-0",
+  "background": "grey-60",
+  "on_background": "grey-960"
 }

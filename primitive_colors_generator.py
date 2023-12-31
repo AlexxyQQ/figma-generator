@@ -41,7 +41,7 @@ def generate_shades_and_svg(base_color, color_name, shade_values):
         x_position = 108 * i
 
         # Append the rectangle SVG element to the rectangles list
-        rectangles.append(f'<rect id="{shade_key}" width="100" height="100" fill="{new_hex}" x="{x_position}" y="0"/>')
+        rectangles.append(f'<rect id="{shade_key.replace("-","/")}" width="100" height="100" fill="{new_hex}" x="{x_position}" y="0"/>')
 
         # Append the text SVG element to the labels list
         labels.append(f'<text x="{x_position + 10}" y="50" fill="white" font-size="10" font-family="Arial" alignment-baseline="middle">{new_hex}</text>')
