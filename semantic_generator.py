@@ -105,3 +105,5 @@ semantics_svg = group_svgs_into_semantics_container(categorized_svgs)
 with open('semantic.svg', 'w') as f:
     f.write(semantics_svg)
 
+# Output paths of the generated files
+print('Generated SVG saved to semantic.svg')

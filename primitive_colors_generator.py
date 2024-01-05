@@ -41,7 +41,7 @@ def generate_shades_and_svg(base_color, color_name, shade_values):
         x_position = 108 * i
 
         # Append the rectangle SVG element to the rectangles list
-        rectangles.append(f'<rect id="{shade_key.replace("-","/")}" width="100" height="100" fill="{new_hex}" x="{x_position}" y="0"/>')
+        rectangles.append(f'<rect id="{shade_key.replace("-","/").replace("grey/variant", "grey-variant")}" width="100" height="100" fill="{new_hex}" x="{x_position}" y="0"/>')
 
         # Append the text SVG element to the labels list
         labels.append(f'<text x="{x_position + 10}" y="50" fill="white" font-size="10" font-family="Arial" alignment-baseline="middle">{new_hex}</text>')
@@ -154,12 +154,12 @@ def rgb_to_hex(rgb):
 
 # Define base colors and shade values
 colors = {
-    "grey": "7f7a84",
+    "grey": "64748B",
     "grey-variant": "6d8691",
-    "error": "da2c24",
-    "primary": "ffc800",
-    "secondary": "00ffc6",
-    "tertiary": 'ff7700',
+    "error": "f75555",
+    "primary": "0F172A",
+    "secondary": "2563EB",
+    "tertiary": 'FB923C',
 }
 shade_values = [0,4,6,10,12,17,20,22,24,30,40,50,60,70,80,87,90,92,94,95,96,98,100]
 # Initialize the SVG container
@@ -182,7 +182,7 @@ for color_name, base_color_hex in colors.items():
 final_svg_code += '</svg>'
 
 # Save the SVG code to a file
-with open('shade.svg', 'w') as f:
+with open('color_shades.svg', 'w') as f:
     f.write(final_svg_code)
 
 # Save the shades dictionary as a JSON file
@@ -191,5 +191,5 @@ with open('color_map/color_map.json', 'w') as f:
 
 # Output paths of the generated files
 print('Generated SVG saved to color_shades.svg')
-print('Generated color shades dictionary saved to color_shades.json')
+print('Generated color shades dictionary saved to color_map.json')
 
