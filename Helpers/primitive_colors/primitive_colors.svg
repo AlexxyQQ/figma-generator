@@ -518,249 +518,249 @@
         <text x="50" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #000000</text>
         </g>
 <g id="error-20">
-        <rect id="error/20" width="100" height="50" fill="#090000" x="120" y="20" rx="8" ry="8"/>
+        <rect id="error/20" width="100" height="50" fill="#0a0500" x="120" y="20" rx="8" ry="8"/>
         <text x="170" y="85" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 20</text>
-        <text x="170" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #090000</text>
+        <text x="170" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #0a0500</text>
         </g>
 <g id="error-40">
-        <rect id="error/40" width="100" height="50" fill="#130000" x="240" y="20" rx="8" ry="8"/>
+        <rect id="error/40" width="100" height="50" fill="#140a00" x="240" y="20" rx="8" ry="8"/>
         <text x="290" y="85" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 40</text>
-        <text x="290" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #130000</text>
+        <text x="290" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #140a00</text>
         </g>
 <g id="error-60">
-        <rect id="error/60" width="100" height="50" fill="#1d0101" x="360" y="20" rx="8" ry="8"/>
+        <rect id="error/60" width="100" height="50" fill="#1e0f00" x="360" y="20" rx="8" ry="8"/>
         <text x="410" y="85" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 60</text>
-        <text x="410" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #1d0101</text>
+        <text x="410" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #1e0f00</text>
         </g>
 <g id="error-80">
-        <rect id="error/80" width="100" height="50" fill="#260101" x="480" y="20" rx="8" ry="8"/>
+        <rect id="error/80" width="100" height="50" fill="#281400" x="480" y="20" rx="8" ry="8"/>
         <text x="530" y="85" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 80</text>
-        <text x="530" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #260101</text>
+        <text x="530" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #281400</text>
         </g>
 <g id="error-100">
-        <rect id="error/100" width="100" height="50" fill="#300202" x="600" y="20" rx="8" ry="8"/>
+        <rect id="error/100" width="100" height="50" fill="#321900" x="600" y="20" rx="8" ry="8"/>
         <text x="650" y="85" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 100</text>
-        <text x="650" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #300202</text>
+        <text x="650" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #321900</text>
         </g>
 <g id="error-110">
-        <rect id="error/110" width="100" height="50" fill="#350202" x="720" y="20" rx="8" ry="8"/>
+        <rect id="error/110" width="100" height="50" fill="#371b00" x="720" y="20" rx="8" ry="8"/>
         <text x="770" y="85" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 110</text>
-        <text x="770" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #350202</text>
+        <text x="770" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #371b00</text>
         </g>
 <g id="error-120">
-        <rect id="error/120" width="100" height="50" fill="#3a0202" x="840" y="20" rx="8" ry="8"/>
+        <rect id="error/120" width="100" height="50" fill="#3c1e00" x="840" y="20" rx="8" ry="8"/>
         <text x="890" y="85" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 120</text>
-        <text x="890" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #3a0202</text>
+        <text x="890" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #3c1e00</text>
         </g>
 <g id="error-130">
-        <rect id="error/130" width="100" height="50" fill="#3f0202" x="960" y="20" rx="8" ry="8"/>
+        <rect id="error/130" width="100" height="50" fill="#412001" x="960" y="20" rx="8" ry="8"/>
         <text x="1010" y="85" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 130</text>
-        <text x="1010" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #3f0202</text>
+        <text x="1010" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #412001</text>
         </g>
 <g id="error-140">
-        <rect id="error/140" width="100" height="50" fill="#440303" x="1080" y="20" rx="8" ry="8"/>
+        <rect id="error/140" width="100" height="50" fill="#462301" x="1080" y="20" rx="8" ry="8"/>
         <text x="1130" y="85" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 140</text>
-        <text x="1130" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #440303</text>
+        <text x="1130" y="100" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #462301</text>
         </g>
 <g id="error-150">
-        <rect id="error/150" width="100" height="50" fill="#490303" x="0" y="120" rx="8" ry="8"/>
+        <rect id="error/150" width="100" height="50" fill="#4b2501" x="0" y="120" rx="8" ry="8"/>
         <text x="50" y="185" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 150</text>
-        <text x="50" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #490303</text>
+        <text x="50" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #4b2501</text>
         </g>
 <g id="error-160">
-        <rect id="error/160" width="100" height="50" fill="#4d0303" x="120" y="120" rx="8" ry="8"/>
+        <rect id="error/160" width="100" height="50" fill="#502801" x="120" y="120" rx="8" ry="8"/>
         <text x="170" y="185" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 160</text>
-        <text x="170" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #4d0303</text>
+        <text x="170" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #502801</text>
         </g>
 <g id="error-170">
-        <rect id="error/170" width="100" height="50" fill="#520303" x="240" y="120" rx="8" ry="8"/>
+        <rect id="error/170" width="100" height="50" fill="#552a01" x="240" y="120" rx="8" ry="8"/>
         <text x="290" y="185" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 170</text>
-        <text x="290" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #520303</text>
+        <text x="290" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #552a01</text>
         </g>
 <g id="error-180">
-        <rect id="error/180" width="100" height="50" fill="#570404" x="360" y="120" rx="8" ry="8"/>
+        <rect id="error/180" width="100" height="50" fill="#5a2d01" x="360" y="120" rx="8" ry="8"/>
         <text x="410" y="185" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 180</text>
-        <text x="410" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #570404</text>
+        <text x="410" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #5a2d01</text>
         </g>
 <g id="error-190">
-        <rect id="error/190" width="100" height="50" fill="#5c0404" x="480" y="120" rx="8" ry="8"/>
+        <rect id="error/190" width="100" height="50" fill="#5f2f01" x="480" y="120" rx="8" ry="8"/>
         <text x="530" y="185" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 190</text>
-        <text x="530" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #5c0404</text>
+        <text x="530" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #5f2f01</text>
         </g>
 <g id="error-200">
-        <rect id="error/200" width="100" height="50" fill="#610404" x="600" y="120" rx="8" ry="8"/>
+        <rect id="error/200" width="100" height="50" fill="#643201" x="600" y="120" rx="8" ry="8"/>
         <text x="650" y="185" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 200</text>
-        <text x="650" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #610404</text>
+        <text x="650" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #643201</text>
         </g>
 <g id="error-220">
-        <rect id="error/220" width="100" height="50" fill="#6b0505" x="720" y="120" rx="8" ry="8"/>
+        <rect id="error/220" width="100" height="50" fill="#6e3701" x="720" y="120" rx="8" ry="8"/>
         <text x="770" y="185" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 220</text>
-        <text x="770" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #6b0505</text>
+        <text x="770" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #6e3701</text>
         </g>
 <g id="error-240">
-        <rect id="error/240" width="100" height="50" fill="#740505" x="840" y="120" rx="8" ry="8"/>
+        <rect id="error/240" width="100" height="50" fill="#783c01" x="840" y="120" rx="8" ry="8"/>
         <text x="890" y="185" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 240</text>
-        <text x="890" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #740505</text>
+        <text x="890" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #783c01</text>
         </g>
 <g id="error-260">
-        <rect id="error/260" width="100" height="50" fill="#7e0505" x="960" y="120" rx="8" ry="8"/>
+        <rect id="error/260" width="100" height="50" fill="#824102" x="960" y="120" rx="8" ry="8"/>
         <text x="1010" y="185" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 260</text>
-        <text x="1010" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #7e0505</text>
+        <text x="1010" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #824102</text>
         </g>
 <g id="error-280">
-        <rect id="error/280" width="100" height="50" fill="#880606" x="1080" y="120" rx="8" ry="8"/>
+        <rect id="error/280" width="100" height="50" fill="#8c4602" x="1080" y="120" rx="8" ry="8"/>
         <text x="1130" y="185" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 280</text>
-        <text x="1130" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #880606</text>
+        <text x="1130" y="200" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #8c4602</text>
         </g>
 <g id="error-300">
-        <rect id="error/300" width="100" height="50" fill="#920606" x="0" y="220" rx="8" ry="8"/>
+        <rect id="error/300" width="100" height="50" fill="#964b02" x="0" y="220" rx="8" ry="8"/>
         <text x="50" y="285" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 300</text>
-        <text x="50" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #920606</text>
+        <text x="50" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #964b02</text>
         </g>
 <g id="error-350">
-        <rect id="error/350" width="100" height="50" fill="#aa0808" x="120" y="220" rx="8" ry="8"/>
+        <rect id="error/350" width="100" height="50" fill="#af5702" x="120" y="220" rx="8" ry="8"/>
         <text x="170" y="285" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 350</text>
-        <text x="170" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #aa0808</text>
+        <text x="170" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #af5702</text>
         </g>
 <g id="error-400">
-        <rect id="error/400" width="100" height="50" fill="#c20909" x="240" y="220" rx="8" ry="8"/>
+        <rect id="error/400" width="100" height="50" fill="#c86403" x="240" y="220" rx="8" ry="8"/>
         <text x="290" y="285" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 400</text>
-        <text x="290" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #c20909</text>
+        <text x="290" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #c86403</text>
         </g>
 <g id="error-450">
-        <rect id="error/450" width="100" height="50" fill="#db0a0a" x="360" y="220" rx="8" ry="8"/>
+        <rect id="error/450" width="100" height="50" fill="#e17003" x="360" y="220" rx="8" ry="8"/>
         <text x="410" y="285" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 450</text>
-        <text x="410" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #db0a0a</text>
+        <text x="410" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #e17003</text>
         </g>
 <g id="error-500">
-        <rect id="error/500" width="100" height="50" fill="#f30b0b" x="480" y="220" rx="8" ry="8"/>
+        <rect id="error/500" width="100" height="50" fill="#fa7d04" x="480" y="220" rx="8" ry="8"/>
         <text x="530" y="285" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 500</text>
-        <text x="530" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #f30b0b</text>
+        <text x="530" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fa7d04</text>
         </g>
 <g id="error-550">
-        <rect id="error/550" width="100" height="50" fill="#f42323" x="600" y="220" rx="8" ry="8"/>
+        <rect id="error/550" width="100" height="50" fill="#fb8a1d" x="600" y="220" rx="8" ry="8"/>
         <text x="650" y="285" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 550</text>
-        <text x="650" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #f42323</text>
+        <text x="650" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fb8a1d</text>
         </g>
 <g id="error-600">
-        <rect id="error/600" width="100" height="50" fill="#f53c3c" x="720" y="220" rx="8" ry="8"/>
+        <rect id="error/600" width="100" height="50" fill="#fb9736" x="720" y="220" rx="8" ry="8"/>
         <text x="770" y="285" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 600</text>
-        <text x="770" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #f53c3c</text>
+        <text x="770" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fb9736</text>
         </g>
 <g id="error-650">
-        <rect id="error/650" width="100" height="50" fill="#f65454" x="840" y="220" rx="8" ry="8"/>
+        <rect id="error/650" width="100" height="50" fill="#fca44f" x="840" y="220" rx="8" ry="8"/>
         <text x="890" y="285" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 650</text>
-        <text x="890" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #f65454</text>
+        <text x="890" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fca44f</text>
         </g>
 <g id="error-700">
-        <rect id="error/700" width="100" height="50" fill="#f86c6c" x="960" y="220" rx="8" ry="8"/>
+        <rect id="error/700" width="100" height="50" fill="#fcb168" x="960" y="220" rx="8" ry="8"/>
         <text x="1010" y="285" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 700</text>
-        <text x="1010" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #f86c6c</text>
+        <text x="1010" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fcb168</text>
         </g>
 <g id="error-750">
-        <rect id="error/750" width="100" height="50" fill="#f98585" x="1080" y="220" rx="8" ry="8"/>
+        <rect id="error/750" width="100" height="50" fill="#fcbe81" x="1080" y="220" rx="8" ry="8"/>
         <text x="1130" y="285" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 750</text>
-        <text x="1130" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #f98585</text>
+        <text x="1130" y="300" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fcbe81</text>
         </g>
 <g id="error-800">
-        <rect id="error/800" width="100" height="50" fill="#fa9d9d" x="0" y="320" rx="8" ry="8"/>
+        <rect id="error/800" width="100" height="50" fill="#fdcb9a" x="0" y="320" rx="8" ry="8"/>
         <text x="50" y="385" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 800</text>
-        <text x="50" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fa9d9d</text>
+        <text x="50" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fdcb9a</text>
         </g>
 <g id="error-810">
-        <rect id="error/810" width="100" height="50" fill="#faa2a2" x="120" y="320" rx="8" ry="8"/>
+        <rect id="error/810" width="100" height="50" fill="#fdcd9f" x="120" y="320" rx="8" ry="8"/>
         <text x="170" y="385" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 810</text>
-        <text x="170" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #faa2a2</text>
+        <text x="170" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fdcd9f</text>
         </g>
 <g id="error-820">
-        <rect id="error/820" width="100" height="50" fill="#faa7a7" x="240" y="320" rx="8" ry="8"/>
+        <rect id="error/820" width="100" height="50" fill="#fdd0a4" x="240" y="320" rx="8" ry="8"/>
         <text x="290" y="385" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 820</text>
-        <text x="290" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #faa7a7</text>
+        <text x="290" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fdd0a4</text>
         </g>
 <g id="error-830">
-        <rect id="error/830" width="100" height="50" fill="#fbacac" x="360" y="320" rx="8" ry="8"/>
+        <rect id="error/830" width="100" height="50" fill="#fdd2a9" x="360" y="320" rx="8" ry="8"/>
         <text x="410" y="385" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 830</text>
-        <text x="410" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fbacac</text>
+        <text x="410" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fdd2a9</text>
         </g>
 <g id="error-840">
-        <rect id="error/840" width="100" height="50" fill="#fbb1b1" x="480" y="320" rx="8" ry="8"/>
+        <rect id="error/840" width="100" height="50" fill="#fdd5ae" x="480" y="320" rx="8" ry="8"/>
         <text x="530" y="385" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 840</text>
-        <text x="530" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fbb1b1</text>
+        <text x="530" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fdd5ae</text>
         </g>
 <g id="error-850">
-        <rect id="error/850" width="100" height="50" fill="#fbb5b5" x="600" y="320" rx="8" ry="8"/>
+        <rect id="error/850" width="100" height="50" fill="#fdd8b3" x="600" y="320" rx="8" ry="8"/>
         <text x="650" y="385" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 850</text>
-        <text x="650" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fbb5b5</text>
+        <text x="650" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fdd8b3</text>
         </g>
 <g id="error-860">
-        <rect id="error/860" width="100" height="50" fill="#fbbaba" x="720" y="320" rx="8" ry="8"/>
+        <rect id="error/860" width="100" height="50" fill="#fddab8" x="720" y="320" rx="8" ry="8"/>
         <text x="770" y="385" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 860</text>
-        <text x="770" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fbbaba</text>
+        <text x="770" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fddab8</text>
         </g>
 <g id="error-870">
-        <rect id="error/870" width="100" height="50" fill="#fcbfbf" x="840" y="320" rx="8" ry="8"/>
+        <rect id="error/870" width="100" height="50" fill="#fdddbd" x="840" y="320" rx="8" ry="8"/>
         <text x="890" y="385" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 870</text>
-        <text x="890" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fcbfbf</text>
+        <text x="890" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fdddbd</text>
         </g>
 <g id="error-880">
-        <rect id="error/880" width="100" height="50" fill="#fcc4c4" x="960" y="320" rx="8" ry="8"/>
+        <rect id="error/880" width="100" height="50" fill="#fedfc2" x="960" y="320" rx="8" ry="8"/>
         <text x="1010" y="385" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 880</text>
-        <text x="1010" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fcc4c4</text>
+        <text x="1010" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fedfc2</text>
         </g>
 <g id="error-890">
-        <rect id="error/890" width="100" height="50" fill="#fcc9c9" x="1080" y="320" rx="8" ry="8"/>
+        <rect id="error/890" width="100" height="50" fill="#fee2c7" x="1080" y="320" rx="8" ry="8"/>
         <text x="1130" y="385" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 890</text>
-        <text x="1130" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fcc9c9</text>
+        <text x="1130" y="400" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fee2c7</text>
         </g>
 <g id="error-900">
-        <rect id="error/900" width="100" height="50" fill="#fccece" x="0" y="420" rx="8" ry="8"/>
+        <rect id="error/900" width="100" height="50" fill="#fee5cc" x="0" y="420" rx="8" ry="8"/>
         <text x="50" y="485" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 900</text>
-        <text x="50" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fccece</text>
+        <text x="50" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fee5cc</text>
         </g>
 <g id="error-910">
-        <rect id="error/910" width="100" height="50" fill="#fcd3d3" x="120" y="420" rx="8" ry="8"/>
+        <rect id="error/910" width="100" height="50" fill="#fee7d1" x="120" y="420" rx="8" ry="8"/>
         <text x="170" y="485" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 910</text>
-        <text x="170" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fcd3d3</text>
+        <text x="170" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fee7d1</text>
         </g>
 <g id="error-920">
-        <rect id="error/920" width="100" height="50" fill="#fdd8d8" x="240" y="420" rx="8" ry="8"/>
+        <rect id="error/920" width="100" height="50" fill="#feead6" x="240" y="420" rx="8" ry="8"/>
         <text x="290" y="485" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 920</text>
-        <text x="290" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fdd8d8</text>
+        <text x="290" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #feead6</text>
         </g>
 <g id="error-930">
-        <rect id="error/930" width="100" height="50" fill="#fddcdc" x="360" y="420" rx="8" ry="8"/>
+        <rect id="error/930" width="100" height="50" fill="#feecdb" x="360" y="420" rx="8" ry="8"/>
         <text x="410" y="485" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 930</text>
-        <text x="410" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fddcdc</text>
+        <text x="410" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #feecdb</text>
         </g>
 <g id="error-940">
-        <rect id="error/940" width="100" height="50" fill="#fde1e1" x="480" y="420" rx="8" ry="8"/>
+        <rect id="error/940" width="100" height="50" fill="#feefe0" x="480" y="420" rx="8" ry="8"/>
         <text x="530" y="485" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 940</text>
-        <text x="530" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fde1e1</text>
+        <text x="530" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #feefe0</text>
         </g>
 <g id="error-950">
-        <rect id="error/950" width="100" height="50" fill="#fde6e6" x="600" y="420" rx="8" ry="8"/>
+        <rect id="error/950" width="100" height="50" fill="#fef2e5" x="600" y="420" rx="8" ry="8"/>
         <text x="650" y="485" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 950</text>
-        <text x="650" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fde6e6</text>
+        <text x="650" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fef2e5</text>
         </g>
 <g id="error-960">
-        <rect id="error/960" width="100" height="50" fill="#feebeb" x="720" y="420" rx="8" ry="8"/>
+        <rect id="error/960" width="100" height="50" fill="#fef4ea" x="720" y="420" rx="8" ry="8"/>
         <text x="770" y="485" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 960</text>
-        <text x="770" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #feebeb</text>
+        <text x="770" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fef4ea</text>
         </g>
 <g id="error-970">
-        <rect id="error/970" width="100" height="50" fill="#fef0f0" x="840" y="420" rx="8" ry="8"/>
+        <rect id="error/970" width="100" height="50" fill="#fef7ef" x="840" y="420" rx="8" ry="8"/>
         <text x="890" y="485" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 970</text>
-        <text x="890" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fef0f0</text>
+        <text x="890" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fef7ef</text>
         </g>
 <g id="error-980">
-        <rect id="error/980" width="100" height="50" fill="#fef5f5" x="960" y="420" rx="8" ry="8"/>
+        <rect id="error/980" width="100" height="50" fill="#fef9f4" x="960" y="420" rx="8" ry="8"/>
         <text x="1010" y="485" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 980</text>
-        <text x="1010" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fef5f5</text>
+        <text x="1010" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fef9f4</text>
         </g>
 <g id="error-990">
-        <rect id="error/990" width="100" height="50" fill="#fefafa" x="1080" y="420" rx="8" ry="8"/>
+        <rect id="error/990" width="100" height="50" fill="#fefcf9" x="1080" y="420" rx="8" ry="8"/>
         <text x="1130" y="485" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: 990</text>
-        <text x="1130" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fefafa</text>
+        <text x="1130" y="500" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: #fefcf9</text>
         </g>
 <g id="error-1000">
         <rect id="error/1000" width="100" height="50" fill="#ffffff" x="0" y="520" rx="8" ry="8"/>

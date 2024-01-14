@@ -8,9 +8,13 @@ def load_json(filename):
 
 
 # Load the color map, light theme, and dark theme from JSON files
-color_map = load_json("primitive_colors/primitive_colors_map.json")
-light_theme = load_json("meterial_semantic/meterial_tamplete/light_theme_semantic.json")
-dark_theme = load_json("meterial_semantic/meterial_tamplete/dark_theme_semantic.json")
+color_map = load_json("Helpers/primitive_colors/primitive_colors_map.json")
+light_theme = load_json(
+    "Helpers/meterial_semantic/meterial_tamplete/light_theme_semantic.json"
+)
+dark_theme = load_json(
+    "Helpers/meterial_semantic/meterial_tamplete/dark_theme_semantic.json"
+)
 
 
 def convert_to_sentence_case(name):
@@ -130,7 +134,7 @@ categorized_svgs = group_svgs_by_theme_and_category(light_theme_svgs, dark_theme
 semantics_svg = group_svgs_into_semantics_container(categorized_svgs)
 
 # Save the final SVG to a file
-with open("meterial_semantic/semantic.svg", "w") as f:
+with open("Helpers/meterial_semantic/semantic.svg", "w") as f:
     f.write(semantics_svg)
 
 
@@ -146,7 +150,7 @@ def save_theme_colors_as_json(theme, theme_name):
         theme_colors[key] = color_hex
 
     # Save to a JSON file
-    filename = f"meterial_semantic/{theme_name}_theme_colors.json"
+    filename = f"Helpers/meterial_semantic/{theme_name}_theme_colors.json"
     with open(filename, "w") as file:
         json.dump(theme_colors, file, indent=4)
 

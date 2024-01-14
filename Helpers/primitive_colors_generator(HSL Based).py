@@ -151,7 +151,7 @@ def generate_individual_shade_svg(base_color, color_name, shade_values):
 colors = {
     "grey": "6B7280",
     "grey-variant": "6d8691",
-    "error": "f75555",
+    "error": "f87c4",
     "primary": "ffc800",
     "secondary": "B523FA",
     "tertiary": "EC6890",
@@ -237,10 +237,10 @@ final_svg_code = (
 )
 
 # Save the SVG code and shades dictionary
-with open("primitive_colors/primitive_colors.svg", "w") as f:
+with open("Helpers/primitive_colors/primitive_colors.svg", "w") as f:
     f.write(final_svg_code)
 
-with open("primitive_colors/primitive_colors_map.json", "w") as f:
+with open("Helpers/primitive_colors/primitive_colors_map.json", "w") as f:
     json.dump(all_shades_dict, f, indent=4)
 
 print("Generated SVG saved to color_shades.svg")

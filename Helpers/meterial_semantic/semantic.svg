@@ -150,9 +150,9 @@
     </svg>
     </g></g><g id="light/error" transform="translate(1500,0)"><g id="light/error/error" transform="translate(0, 0)">
     <svg id="light/error/error" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
-        <rect id="light/error/error" width="50" height="50" fill="#c20909" x="0" y="0" rx="4" ry="4"/>
+        <rect id="light/error/error" width="50" height="50" fill="#c86403" x="0" y="0" rx="4" ry="4"/>
         <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Error (error-400)</text>
-        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#c20909</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#c86403</text>
     </svg>
     </g><g id="light/error/on_error" transform="translate(0, 60)">
     <svg id="light/error/on_error" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
@@ -162,39 +162,39 @@
     </svg>
     </g><g id="light/error/error_container" transform="translate(0, 120)">
     <svg id="light/error/error_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
-        <rect id="light/error/error_container" width="50" height="50" fill="#fccece" x="0" y="0" rx="4" ry="4"/>
+        <rect id="light/error/error_container" width="50" height="50" fill="#fee5cc" x="0" y="0" rx="4" ry="4"/>
         <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Error Container (error-900)</text>
-        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#fccece</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#fee5cc</text>
     </svg>
     </g><g id="light/error/on_error_container" transform="translate(0, 180)">
     <svg id="light/error/on_error_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
-        <rect id="light/error/on_error_container" width="50" height="50" fill="#300202" x="0" y="0" rx="4" ry="4"/>
+        <rect id="light/error/on_error_container" width="50" height="50" fill="#321900" x="0" y="0" rx="4" ry="4"/>
         <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Error Container (error-100)</text>
-        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#300202</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#321900</text>
     </svg>
     </g><g id="light/error/error_fixed" transform="translate(0, 240)">
     <svg id="light/error/error_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
-        <rect id="light/error/error_fixed" width="50" height="50" fill="#fccece" x="0" y="0" rx="4" ry="4"/>
+        <rect id="light/error/error_fixed" width="50" height="50" fill="#fee5cc" x="0" y="0" rx="4" ry="4"/>
         <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Error Fixed (error-900)</text>
-        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#fccece</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#fee5cc</text>
     </svg>
     </g><g id="light/error/error_fixed_dim" transform="translate(0, 300)">
     <svg id="light/error/error_fixed_dim" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
-        <rect id="light/error/error_fixed_dim" width="50" height="50" fill="#fa9d9d" x="0" y="0" rx="4" ry="4"/>
+        <rect id="light/error/error_fixed_dim" width="50" height="50" fill="#fdcb9a" x="0" y="0" rx="4" ry="4"/>
         <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Error Fixed Dim (error-800)</text>
-        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#fa9d9d</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#fdcb9a</text>
     </svg>
     </g><g id="light/error/on_error_fixed" transform="translate(0, 360)">
     <svg id="light/error/on_error_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
-        <rect id="light/error/on_error_fixed" width="50" height="50" fill="#300202" x="0" y="0" rx="4" ry="4"/>
+        <rect id="light/error/on_error_fixed" width="50" height="50" fill="#321900" x="0" y="0" rx="4" ry="4"/>
         <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Error Fixed (error-100)</text>
-        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#300202</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#321900</text>
     </svg>
     </g><g id="light/error/on_error_fixed_variant" transform="translate(0, 420)">
     <svg id="light/error/on_error_fixed_variant" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
-        <rect id="light/error/on_error_fixed_variant" width="50" height="50" fill="#920606" x="0" y="0" rx="4" ry="4"/>
+        <rect id="light/error/on_error_fixed_variant" width="50" height="50" fill="#964b02" x="0" y="0" rx="4" ry="4"/>
         <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Error Fixed Variant (error-300)</text>
-        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#920606</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#964b02</text>
     </svg>
     </g></g><g id="light/surface" transform="translate(2000,0)"><g id="light/surface/surface_dim" transform="translate(0, 0)">
     <svg id="light/surface/surface_dim" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
