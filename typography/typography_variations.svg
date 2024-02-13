@@ -1,0 +1,97 @@
+<svg id="typography" width="650" height="2560" xmlns="http://www.w3.org/2000/svg">
+<g id="headings">
+  <text x="10" y="40" fill="#02080A" font-size="28" font-family="Arial" font-weight="bold">Headings</text>
+  <g id="headings/h1">
+    <text x="20" y="80" fill="#02080A" font-size="36" font-family="Roboto">H1</text>
+    <text x="20" y="130" fill="#50616A" font-size="36" font-family="Roboto" id="headings/h1">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="150" fill="#50616A" font-size="12" font-family="Arial">36px / W700</text>
+  </g>
+  <g id="headings/h2">
+    <text x="20" y="200" fill="#02080A" font-size="32" font-family="Roboto">H2</text>
+    <text x="20" y="250" fill="#50616A" font-size="32" font-family="Roboto" id="headings/h2">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="270" fill="#50616A" font-size="12" font-family="Arial">32px / W700</text>
+  </g>
+  <g id="headings/h3">
+    <text x="20" y="320" fill="#02080A" font-size="28" font-family="Roboto">H3</text>
+    <text x="20" y="370" fill="#50616A" font-size="28" font-family="Roboto" id="headings/h3">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="390" fill="#50616A" font-size="12" font-family="Arial">28px / W700</text>
+  </g>
+  <g id="headings/h4">
+    <text x="20" y="440" fill="#02080A" font-size="24" font-family="Roboto">H4</text>
+    <text x="20" y="490" fill="#50616A" font-size="24" font-family="Roboto" id="headings/h4">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="510" fill="#50616A" font-size="12" font-family="Arial">24px / W700</text>
+  </g>
+  <g id="headings/h5">
+    <text x="20" y="560" fill="#02080A" font-size="20" font-family="Roboto">H5</text>
+    <text x="20" y="610" fill="#50616A" font-size="20" font-family="Roboto" id="headings/h5">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="630" fill="#50616A" font-size="12" font-family="Arial">20px / W700</text>
+  </g>
+  <g id="headings/h6">
+    <text x="20" y="680" fill="#02080A" font-size="16" font-family="Roboto">H6</text>
+    <text x="20" y="730" fill="#50616A" font-size="16" font-family="Roboto" id="headings/h6">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="750" fill="#50616A" font-size="12" font-family="Arial">16px / W700</text>
+  </g>
+</g>
+<g id="bold">
+  <text x="10" y="900" fill="#02080A" font-size="28" font-family="Arial" font-weight="bold">Bold</text>
+  <g id="bold/body/small">
+    <text x="20" y="940" fill="#02080A" font-size="12" font-family="Roboto">Body Small</text>
+    <text x="20" y="990" fill="#50616A" font-size="12" font-family="Roboto" id="bold/body/small">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="1010" fill="#50616A" font-size="12" font-family="Arial">12px / W700</text>
+  </g>
+  <g id="bold/body/medium">
+    <text x="20" y="1060" fill="#02080A" font-size="14" font-family="Roboto">Body Medium</text>
+    <text x="20" y="1110" fill="#50616A" font-size="14" font-family="Roboto" id="bold/body/medium">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="1130" fill="#50616A" font-size="12" font-family="Arial">14px / W700</text>
+  </g>
+  <g id="bold/body/large">
+    <text x="20" y="1180" fill="#02080A" font-size="16" font-family="Roboto">Body Large</text>
+    <text x="20" y="1230" fill="#50616A" font-size="16" font-family="Roboto" id="bold/body/large">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="1250" fill="#50616A" font-size="12" font-family="Arial">16px / W700</text>
+  </g>
+</g>
+<g id="regular">
+  <text x="10" y="1400" fill="#02080A" font-size="28" font-family="Arial" font-weight="bold">Regular</text>
+  <g id="regular/body/small">
+    <text x="20" y="1440" fill="#02080A" font-size="12" font-family="Roboto">Body Small</text>
+    <text x="20" y="1490" fill="#50616A" font-size="12" font-family="Roboto" id="regular/body/small">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="1510" fill="#50616A" font-size="12" font-family="Arial">12px / W400</text>
+  </g>
+  <g id="regular/body/medium">
+    <text x="20" y="1560" fill="#02080A" font-size="14" font-family="Roboto">Body Medium</text>
+    <text x="20" y="1610" fill="#50616A" font-size="14" font-family="Roboto" id="regular/body/medium">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="1630" fill="#50616A" font-size="12" font-family="Arial">14px / W400</text>
+  </g>
+  <g id="regular/body/large">
+    <text x="20" y="1680" fill="#02080A" font-size="16" font-family="Roboto">Body Large</text>
+    <text x="20" y="1730" fill="#50616A" font-size="16" font-family="Roboto" id="regular/body/large">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="1750" fill="#50616A" font-size="12" font-family="Arial">16px / W400</text>
+  </g>
+</g>
+<g id="light">
+  <text x="10" y="1900" fill="#02080A" font-size="28" font-family="Arial" font-weight="bold">Light</text>
+  <g id="light/body/small">
+    <text x="20" y="1940" fill="#02080A" font-size="12" font-family="Roboto">Body Small</text>
+    <text x="20" y="1990" fill="#50616A" font-size="12" font-family="Roboto" id="light/body/small">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="2010" fill="#50616A" font-size="12" font-family="Arial">12px / W300</text>
+  </g>
+  <g id="light/body/medium">
+    <text x="20" y="2060" fill="#02080A" font-size="14" font-family="Roboto">Body Medium</text>
+    <text x="20" y="2110" fill="#50616A" font-size="14" font-family="Roboto" id="light/body/medium">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="2130" fill="#50616A" font-size="12" font-family="Arial">14px / W300</text>
+  </g>
+  <g id="light/body/large">
+    <text x="20" y="2180" fill="#02080A" font-size="16" font-family="Roboto">Body Large</text>
+    <text x="20" y="2230" fill="#50616A" font-size="16" font-family="Roboto" id="light/body/large">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="2250" fill="#50616A" font-size="12" font-family="Arial">16px / W300</text>
+  </g>
+</g>
+<g id="captions">
+  <text x="10" y="2400" fill="#02080A" font-size="28" font-family="Arial" font-weight="bold">Captions</text>
+  <g id="captions/caption">
+    <text x="20" y="2440" fill="#02080A" font-size="10" font-family="Roboto">Caption</text>
+    <text x="20" y="2490" fill="#50616A" font-size="10" font-family="Roboto" id="captions/caption">The quick brown fox jumps over the lazy dog.</text>
+    <text x="20" y="2510" fill="#50616A" font-size="12" font-family="Arial">10px / W300</text>
+  </g>
+</g>
+</svg>
