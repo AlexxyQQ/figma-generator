@@ -1,60 +1,4 @@
 import json
-def generate_shades_and_svg(base_color, color_name, shade_values):
-    """
-    Generates a dictionary of color shades and an SVG representation for a given base color.
-    Each color shade is represented as a rectangle in the SVG, and the hex code is displayed as text.
-    
-    Args:
-        base_color (str): The base color in hexadecimal format (e.g., 'FF5733').
-        color_name (str): The descriptive name of the color (used as an identifier in the SVG).
-        shade_values (list of int): The percentages of the base color shades to generate.
-
-    Returns:
-        dict: A dictionary of shades with their hex values.
-        str: An SVG string representation of the color shades.
-    """
-    # Convert hex to RGB and then to HSL
-    base_color_rgb = tuple(int(base_color[i:i+2], 16) for i in (0, 2, 4))
-    base_color_hsl = rgb_to_hsl(base_color_rgb)
-
-    # Initialize lists for rectangles and labels, and the shades dictionary
-    rectangles = []
-    labels = []
-    shades_dict = {}
-
-    # Define SVG properties
-    svg_width = 108 * len(shade_values)
-    svg_height = 120  # Fixed height for each color shade row
-
-    # Generate shades and SVG elements for each shade
-    for i, shade in enumerate(sorted(shade_values)):
-        # Calculate the new shade color
-        new_hsl = (base_color_hsl[0], base_color_hsl[1], shade / 100)
-        new_rgb = hsl_to_rgb(new_hsl)
-        new_hex = rgb_to_hex(new_rgb)
-        
-        # Update the shades dictionary with the calculated color
-        shade_key = f'{color_name}-{shade * 10}'
-        shades_dict[shade_key] = new_hex
-
-        # Calculate the x position for the rectangle and label
-        x_position = 108 * i
-
-        # Append the rectangle SVG element to the rectangles list
-        rectangles.append(f'<rect id="{shade_key.replace("-","/").replace("grey/variant", "grey-variant")}" width="100" height="100" fill="{new_hex}" x="{x_position}" y="0"/>')
-
-        # Append the text SVG element to the labels list
-        labels.append(f'<text x="{x_position + 10}" y="50" fill="white" font-size="10" font-family="Arial" alignment-baseline="middle">{new_hex}</text>')
-
-    # Combine all rectangles and labels to form the final SVG string
-    svg_code = (
-        f'<svg id="{color_name}-shades" width="{svg_width}" height="{svg_height}" '
-        f'viewBox="0 0 {svg_width} {svg_height}" xmlns="http://www.w3.org/2000/svg">\n'
-        + '\n'.join(rectangles) + '\n' + '\n'.join(labels) +
-        '\n</svg>'
-    )
-
-    return shades_dict, svg_code
 
 
 # Color conversion utility functions
@@ -93,6 +37,7 @@ def rgb_to_hsl(rgb):
 
     return h, s, l
 
+
 def hsl_to_rgb(hsl):
     """
     Converts HSL color format to RGB format.
@@ -109,11 +54,16 @@ def hsl_to_rgb(hsl):
         """
         Helper function for converting hue to RGB.
         """
-        if t < 0: t += 1
-        if t > 1: t -= 1
-        if t < 1/6: return p + (q - p) * 6 * t
-        if t < 1/2: return q
-        if t < 2/3: return p + (q - p) * (2/3 - t) * 6
+        if t < 0:
+            t += 1
+        if t > 1:
+            t -= 1
+        if t < 1 / 6:
+            return p + (q - p) * 6 * t
+        if t < 1 / 2:
+            return q
+        if t < 2 / 3:
+            return p + (q - p) * (2 / 3 - t) * 6
         return p
 
     # Calculate RGB values from HSL
@@ -122,11 +72,12 @@ def hsl_to_rgb(hsl):
     else:
         q = l * (1 + s) if l < 0.5 else l + s - l * s
         p = 2 * l - q
-        r = hue_to_rgb(p, q, h + 1/3)
+        r = hue_to_rgb(p, q, h + 1 / 3)
         g = hue_to_rgb(p, q, h)
-        b = hue_to_rgb(p, q, h - 1/3)
+        b = hue_to_rgb(p, q, h - 1 / 3)
 
     return int(r * 255), int(g * 255), int(b * 255)
+
 
 def rgb_to_hex(rgb):
     """
@@ -138,58 +89,159 @@ def rgb_to_hex(rgb):
     Returns:
         str: Hex color string.
     """
-    return '#{:02x}{:02x}{:02x}'.format(*rgb)
+    return "#{:02x}{:02x}{:02x}".format(*rgb)
 
 
-# Uncomment this for user input
-# User inputs for multiple colors
-# colors = {
-#     "primary": input("Enter the primary color in hex (e.g., 'DA2C24'): "),
-#     "secondary": input("Enter the secondary color in hex (e.g., '4B88A2'): "),
-#     "tertiary": input("Enter the tertiary color in hex (e.g., 'A1D68B'): "),
-#     "error": input("Enter the error color in hex (e.g., 'FF0000'): "),
-#     "grey": input("Enter the grey color in hex (e.g., '808080'): "),
-#     "grey_variant": input("Enter the grey variant color in hex (e.g., 'BEBEBE'): ")
-# }
+import json
+
+
+def generate_individual_shade_svg(base_color, color_name, shade_values):
+    base_color_rgb = tuple(int(base_color[i : i + 2], 16) for i in (0, 2, 4))
+    base_color_hsl = rgb_to_hsl(base_color_rgb)
+
+    shades_dict = {}
+    svg_elements = []
+    elements_per_row = 10
+    row_width = (
+        120 * elements_per_row
+    )  # Adjusted for clarity but not directly used due to fixed element size and spacing
+    x_offset = 0
+    y_offset = 20  # Start with an offset to accommodate the color group name
+
+    # Add the color group name at the top
+    group_name_svg = f'<text x="0" y="15" fill="black" font-size="14" font-family="Arial" text-anchor="start">{color_name.capitalize()}</text>'
+    svg_elements.append(group_name_svg)
+
+    for index, shade in enumerate(shade_values):
+        if index % elements_per_row == 0 and index != 0:
+            x_offset = 0  # Reset x offset for a new row
+            y_offset += 100  # Move down for the next row of elements
+
+        new_hsl = (base_color_hsl[0], base_color_hsl[1], shade / 100)
+        new_rgb = hsl_to_rgb(new_hsl)
+        new_hex = rgb_to_hex(new_rgb)
+
+        # SVG element for the shade
+        svg_code = f"""
+        <rect id="{color_name}/{shade*10}" width="100" height="50" fill="{new_hex}" x="{x_offset}" y="{y_offset}" rx="8" ry="8"/>
+        <text x="{x_offset + 50}" y="{y_offset + 65}" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Shade: {shade*10}</text>
+        <text x="{x_offset + 50}" y="{y_offset + 80}" fill="black" font-size="8" font-family="Arial" text-anchor="middle">Hex: {new_hex}</text>
+        """
+
+        shade_key = f"{color_name}-{shade*10}"
+        shades_dict[shade_key] = new_hex
+        svg_elements.append(f'<g id="{shade_key}">{svg_code}</g>')
+
+        x_offset += 120  # Move right for the next element in the row
+
+    return (
+        shades_dict,
+        svg_elements,
+        y_offset
+        + 100,  # Return y_offset for the next color group, including space for the name
+    )
+
+
+# The rest of the processing code remains the same
+
+
+# Color conversion utility functions remain the same
 
 # Define base colors and shade values
 colors = {
-    "grey": "64748B",
+    "grey": "6B7280",
     "grey-variant": "6d8691",
     "error": "f75555",
-    "primary": "0F172A",
-    "secondary": "2563EB",
-    "tertiary": 'FB923C',
+    "primary": "ffc800",
+    "secondary": "B523FA",
+    "tertiary": "EC6890",
 }
-shade_values = [0,4,6,10,12,17,20,22,24,30,40,50,60,70,80,87,90,92,94,95,96,98,100]
-# Initialize the SVG container
-svg_height = 120 * len(colors)
-final_svg_code = f'<svg id="primitive-colors" width="{108 * len(shade_values)}" height="{120 * len(colors)}" style="display: inline-flex; flex-direction: column; align-items: flex-start;" xmlns="http://www.w3.org/2000/svg">\n'
+shade_values = [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    24,
+    26,
+    28,
+    30,
+    35,
+    40,
+    45,
+    50,
+    55,
+    60,
+    65,
+    70,
+    75,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+]
 
-# Initialize a dictionary to store all shades
 all_shades_dict = {}
+final_svg_elements = []
+group_y_offset = 0  # Initialize y offset for positioning color groups vertically
 
-# Generate shades and SVG for each color and append them to the SVG container
-y_offset = 0
+# Generate SVG elements for each shade of each color
 for color_name, base_color_hex in colors.items():
-    shades_dict, svg_code = generate_shades_and_svg(base_color_hex, color_name, shade_values)
+    shades_dict, svg_elements, updated_y_offset = generate_individual_shade_svg(
+        base_color_hex, color_name, shade_values
+    )
     all_shades_dict.update(shades_dict)
-    # Append the SVG code for this color to the final SVG container
-    final_svg_code += f'<g id="{color_name}" transform="translate(0, {y_offset})">{svg_code}</g>\n'
-    y_offset += 120  # Increment the y_offset for the next color group
 
-# Close the SVG container
-final_svg_code += '</svg>'
+    # Group SVG elements for the current color with updated vertical positioning
+    color_group = "\n".join(svg_elements)
+    final_svg_elements.append(
+        f'<g id="{color_name}-group" transform="translate(0, {group_y_offset})">{color_group}</g>'
+    )
 
-# Save the SVG code to a file
-with open('color_shades.svg', 'w') as f:
+    group_y_offset += updated_y_offset + 50  # Update group_y_offset for the next group
+
+# Combine all grouped SVG elements into the final SVG container
+final_svg_code = (
+    f'<svg id="color-shades" xmlns="http://www.w3.org/2000/svg" width="{1180}" height="{group_y_offset}" style="overflow: visible;">\n'
+    + "\n".join(final_svg_elements)
+    + "\n</svg>"
+)
+
+# Save the SVG code and shades dictionary
+with open("primitive_colors/primitive_colors.svg", "w") as f:
     f.write(final_svg_code)
 
-# Save the shades dictionary as a JSON file
-with open('color_map/color_map.json', 'w') as f:
+with open("primitive_colors/primitive_colors_map.json", "w") as f:
     json.dump(all_shades_dict, f, indent=4)
 
-# Output paths of the generated files
-print('Generated SVG saved to color_shades.svg')
-print('Generated color shades dictionary saved to color_map.json')
-
+print("Generated SVG saved to color_shades.svg")
+print("Generated color shades dictionary saved to color_map.json")

@@ -1,0 +1,21 @@
+<svg id="Color Name" width="150" height="84.72" style="display: inline-flex; flex-direction: column; align-items: flex-start;" xmlns="http://www.w3.org/2000/svg">
+    <g id="color/brightness" transform="translate(0, 0)">
+        <svg>
+        <!-- Rectangle representing the color -->
+            <rect id="grey/1000" width="150" height="50" fill="#D10C0C" x="0" y="0" rx="8" ry="8"/>
+            <!-- Shades and Hex -->
+            <g id="shades and hex" transform="translate(4, 66.72)">
+            <!-- Shade -->
+                <g id="shades" transform="translate(0, 0)">
+                    <text x="0" y="1.5" fill="#D10C0C" font-size="10" font-family="Arial" alignment-baseline="middle">Shades:</text>
+                    <text x="38" y="1.5" fill="#D10C0C" font-size="10" font-family="Arial" alignment-baseline="middle">1000</text>
+                </g> 
+                <!-- Hex -->
+                <g id="hex" transform="translate(72, 0)">
+                    <text x="5" y="1.5" fill="#D10C0C" font-size="10" font-family="Arial" alignment-baseline="middle">Hex:</text>
+                    <text x="30" y="1.5" fill="#D10C0C" font-size="10" font-family="Arial" alignment-baseline="middle">#000000</text>
+                </g>
+            </g>
+        </svg>
+    </g>
+</svg>

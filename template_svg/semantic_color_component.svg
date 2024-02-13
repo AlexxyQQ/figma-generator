@@ -1,0 +1,11 @@
+<svg id="Semantic Name" width="300" height="50" style="display: inline-flex; flex-direction: column; align-items: flex-start;" xmlns="http://www.w3.org/2000/svg">
+    <svg>
+    <!-- Rectangle representing the color -->
+        <rect id="mode/group/semantic_name" width="50" height="50" fill="#D10C0C" x="0" y="0" rx="4" ry="4"/>
+    <!-- Shade -->
+        <g id="shades" transform="translate(63, 22)">
+            <text x="0" y="0" fill="#D10C0C" font-size="10" font-family="Arial" alignment-baseline="middle">Semantic Name(Color Name)</text>
+            <text x="0" y="16" fill="#D10C0C" font-size="10" font-family="Arial" alignment-baseline="middle">#D10C0C</text>
+        </g> 
+    </svg>
+</svg>

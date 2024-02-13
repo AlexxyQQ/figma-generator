@@ -1,0 +1,613 @@
+<svg id="semantics_container" xmlns="http://www.w3.org/2000/svg" width="2000"><g id="light" transform="translate(0,0)"><g id="light/primary" transform="translate(0,0)"><g id="light/primary/primary" transform="translate(0, 0)">
+    <svg id="light/primary/primary" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/primary/primary" width="50" height="50" fill="#cca000" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Primary (primary-400)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#cca000</text>
+    </svg>
+    </g><g id="light/primary/on_primary" transform="translate(0, 60)">
+    <svg id="light/primary/on_primary" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/primary/on_primary" width="50" height="50" fill="#ffffff" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Primary (primary-1000)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#ffffff</text>
+    </svg>
+    </g><g id="light/primary/primary_container" transform="translate(0, 120)">
+    <svg id="light/primary/primary_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/primary/primary_container" width="50" height="50" fill="#fef3cc" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Primary Container (primary-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#fef3cc</text>
+    </svg>
+    </g><g id="light/primary/on_primary_container" transform="translate(0, 180)">
+    <svg id="light/primary/on_primary_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/primary/on_primary_container" width="50" height="50" fill="#332800" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Primary Container (primary-100)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#332800</text>
+    </svg>
+    </g><g id="light/primary/primary_fixed" transform="translate(0, 240)">
+    <svg id="light/primary/primary_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/primary/primary_fixed" width="50" height="50" fill="#fef3cc" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Primary Fixed (primary-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#fef3cc</text>
+    </svg>
+    </g><g id="light/primary/primary_fixed_dim" transform="translate(0, 300)">
+    <svg id="light/primary/primary_fixed_dim" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/primary/primary_fixed_dim" width="50" height="50" fill="#ffe999" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Primary Fixed Dim (primary-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#ffe999</text>
+    </svg>
+    </g><g id="light/primary/on_primary_fixed" transform="translate(0, 360)">
+    <svg id="light/primary/on_primary_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/primary/on_primary_fixed" width="50" height="50" fill="#332800" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Primary Fixed (primary-100)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#332800</text>
+    </svg>
+    </g><g id="light/primary/on_primary_fixed_variant" transform="translate(0, 420)">
+    <svg id="light/primary/on_primary_fixed_variant" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/primary/on_primary_fixed_variant" width="50" height="50" fill="#997800" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Primary Fixed Variant (primary-300)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#997800</text>
+    </svg>
+    </g><g id="light/primary/inverse_primary" transform="translate(0, 480)">
+    <svg id="light/primary/inverse_primary" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/primary/inverse_primary" width="50" height="50" fill="#ffe999" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Inverse Primary (primary-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#ffe999</text>
+    </svg>
+    </g></g><g id="light/secondary" transform="translate(500,0)"><g id="light/secondary/secondary" transform="translate(0, 0)">
+    <svg id="light/secondary/secondary" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/secondary/secondary" width="50" height="50" fill="#8804c7" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Secondary (secondary-400)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#8804c7</text>
+    </svg>
+    </g><g id="light/secondary/on_secondary" transform="translate(0, 60)">
+    <svg id="light/secondary/on_secondary" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/secondary/on_secondary" width="50" height="50" fill="#ffffff" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Secondary (secondary-1000)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#ffffff</text>
+    </svg>
+    </g><g id="light/secondary/secondary_container" transform="translate(0, 120)">
+    <svg id="light/secondary/secondary_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/secondary/secondary_container" width="50" height="50" fill="#eecdfd" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Secondary Container (secondary-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#eecdfd</text>
+    </svg>
+    </g><g id="light/secondary/on_secondary_container" transform="translate(0, 180)">
+    <svg id="light/secondary/on_secondary_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/secondary/on_secondary_container" width="50" height="50" fill="#220131" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Secondary Container (secondary-100)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#220131</text>
+    </svg>
+    </g><g id="light/secondary/secondary_fixed" transform="translate(0, 240)">
+    <svg id="light/secondary/secondary_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/secondary/secondary_fixed" width="50" height="50" fill="#eecdfd" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Secondary Fixed (secondary-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#eecdfd</text>
+    </svg>
+    </g><g id="light/secondary/secondary_fixed_dim" transform="translate(0, 300)">
+    <svg id="light/secondary/secondary_fixed_dim" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/secondary/secondary_fixed_dim" width="50" height="50" fill="#dd9bfc" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Secondary Fixed Dim (secondary-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#dd9bfc</text>
+    </svg>
+    </g><g id="light/secondary/on_secondary_fixed" transform="translate(0, 360)">
+    <svg id="light/secondary/on_secondary_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/secondary/on_secondary_fixed" width="50" height="50" fill="#220131" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Secondary Fixed (secondary-100)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#220131</text>
+    </svg>
+    </g><g id="light/secondary/on_secondary_fixed_variant" transform="translate(0, 420)">
+    <svg id="light/secondary/on_secondary_fixed_variant" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/secondary/on_secondary_fixed_variant" width="50" height="50" fill="#660395" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Secondary Fixed Variant (secondary-300)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#660395</text>
+    </svg>
+    </g></g><g id="light/tertiary" transform="translate(1000,0)"><g id="light/tertiary/tertiary" transform="translate(0, 0)">
+    <svg id="light/tertiary/tertiary" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/tertiary/tertiary" width="50" height="50" fill="#b51646" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Tertiary (tertiary-400)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#b51646</text>
+    </svg>
+    </g><g id="light/tertiary/on_tertiary" transform="translate(0, 60)">
+    <svg id="light/tertiary/on_tertiary" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/tertiary/on_tertiary" width="50" height="50" fill="#ffffff" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Tertiary (tertiary-1000)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#ffffff</text>
+    </svg>
+    </g><g id="light/tertiary/tertiary_container" transform="translate(0, 120)">
+    <svg id="light/tertiary/tertiary_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/tertiary/tertiary_container" width="50" height="50" fill="#f9d1dd" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Tertiary Container (tertiary-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f9d1dd</text>
+    </svg>
+    </g><g id="light/tertiary/on_tertiary_container" transform="translate(0, 180)">
+    <svg id="light/tertiary/on_tertiary_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/tertiary/on_tertiary_container" width="50" height="50" fill="#2d0511" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Tertiary Container (tertiary-100)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#2d0511</text>
+    </svg>
+    </g><g id="light/tertiary/tertiary_fixed" transform="translate(0, 240)">
+    <svg id="light/tertiary/tertiary_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/tertiary/tertiary_fixed" width="50" height="50" fill="#f9d1dd" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Tertiary Fixed (tertiary-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f9d1dd</text>
+    </svg>
+    </g><g id="light/tertiary/tertiary_fixed_dim" transform="translate(0, 300)">
+    <svg id="light/tertiary/tertiary_fixed_dim" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/tertiary/tertiary_fixed_dim" width="50" height="50" fill="#f3a4bc" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Tertiary Fixed Dim (tertiary-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f3a4bc</text>
+    </svg>
+    </g><g id="light/tertiary/on_tertiary_fixed" transform="translate(0, 360)">
+    <svg id="light/tertiary/on_tertiary_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/tertiary/on_tertiary_fixed" width="50" height="50" fill="#2d0511" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Tertiary Fixed (tertiary-100)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#2d0511</text>
+    </svg>
+    </g><g id="light/tertiary/on_tertiary_fixed_variant" transform="translate(0, 420)">
+    <svg id="light/tertiary/on_tertiary_fixed_variant" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/tertiary/on_tertiary_fixed_variant" width="50" height="50" fill="#871135" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Tertiary Fixed Variant (tertiary-300)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#871135</text>
+    </svg>
+    </g></g><g id="light/error" transform="translate(1500,0)"><g id="light/error/error" transform="translate(0, 0)">
+    <svg id="light/error/error" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/error/error" width="50" height="50" fill="#c20909" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Error (error-400)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#c20909</text>
+    </svg>
+    </g><g id="light/error/on_error" transform="translate(0, 60)">
+    <svg id="light/error/on_error" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/error/on_error" width="50" height="50" fill="#ffffff" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Error (error-1000)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#ffffff</text>
+    </svg>
+    </g><g id="light/error/error_container" transform="translate(0, 120)">
+    <svg id="light/error/error_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/error/error_container" width="50" height="50" fill="#fccece" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Error Container (error-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#fccece</text>
+    </svg>
+    </g><g id="light/error/on_error_container" transform="translate(0, 180)">
+    <svg id="light/error/on_error_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/error/on_error_container" width="50" height="50" fill="#300202" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Error Container (error-100)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#300202</text>
+    </svg>
+    </g><g id="light/error/error_fixed" transform="translate(0, 240)">
+    <svg id="light/error/error_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/error/error_fixed" width="50" height="50" fill="#fccece" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Error Fixed (error-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#fccece</text>
+    </svg>
+    </g><g id="light/error/error_fixed_dim" transform="translate(0, 300)">
+    <svg id="light/error/error_fixed_dim" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/error/error_fixed_dim" width="50" height="50" fill="#fa9d9d" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Error Fixed Dim (error-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#fa9d9d</text>
+    </svg>
+    </g><g id="light/error/on_error_fixed" transform="translate(0, 360)">
+    <svg id="light/error/on_error_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/error/on_error_fixed" width="50" height="50" fill="#300202" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Error Fixed (error-100)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#300202</text>
+    </svg>
+    </g><g id="light/error/on_error_fixed_variant" transform="translate(0, 420)">
+    <svg id="light/error/on_error_fixed_variant" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/error/on_error_fixed_variant" width="50" height="50" fill="#920606" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Error Fixed Variant (error-300)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#920606</text>
+    </svg>
+    </g></g><g id="light/surface" transform="translate(2000,0)"><g id="light/surface/surface_dim" transform="translate(0, 0)">
+    <svg id="light/surface/surface_dim" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/surface/surface_dim" width="50" height="50" fill="#dadce0" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface Dim (grey-870)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#dadce0</text>
+    </svg>
+    </g><g id="light/surface/surface" transform="translate(0, 60)">
+    <svg id="light/surface/surface" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/surface/surface" width="50" height="50" fill="#f9f9fa" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface (grey-980)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f9f9fa</text>
+    </svg>
+    </g><g id="light/surface/surface_bright" transform="translate(0, 120)">
+    <svg id="light/surface/surface_bright" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/surface/surface_bright" width="50" height="50" fill="#f9f9fa" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface Bright (grey-980)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f9f9fa</text>
+    </svg>
+    </g><g id="light/surface/surface_container_lowest" transform="translate(0, 180)">
+    <svg id="light/surface/surface_container_lowest" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/surface/surface_container_lowest" width="50" height="50" fill="#ffffff" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface Container Lowest (grey-1000)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#ffffff</text>
+    </svg>
+    </g><g id="light/surface/surface_container_low" transform="translate(0, 240)">
+    <svg id="light/surface/surface_container_low" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/surface/surface_container_low" width="50" height="50" fill="#f3f4f5" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface Container Low (grey-960)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f3f4f5</text>
+    </svg>
+    </g><g id="light/surface/surface_container" transform="translate(0, 300)">
+    <svg id="light/surface/surface_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/surface/surface_container" width="50" height="50" fill="#eeeff1" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface Container (grey-940)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#eeeff1</text>
+    </svg>
+    </g><g id="light/surface/surface_container_high" transform="translate(0, 360)">
+    <svg id="light/surface/surface_container_high" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/surface/surface_container_high" width="50" height="50" fill="#e8e9ec" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface Container High (grey-920)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#e8e9ec</text>
+    </svg>
+    </g><g id="light/surface/surface_container_highest" transform="translate(0, 420)">
+    <svg id="light/surface/surface_container_highest" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/surface/surface_container_highest" width="50" height="50" fill="#e3e4e7" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface Container Highest (grey-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#e3e4e7</text>
+    </svg>
+    </g><g id="light/surface/on_surface" transform="translate(0, 480)">
+    <svg id="light/surface/on_surface" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/surface/on_surface" width="50" height="50" fill="#17181b" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Surface (grey-100)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#17181b</text>
+    </svg>
+    </g><g id="light/surface/on_surface_variant" transform="translate(0, 540)">
+    <svg id="light/surface/on_surface_variant" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/surface/on_surface_variant" width="50" height="50" fill="#415057" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Surface Variant (grey-variant-300)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#415057</text>
+    </svg>
+    </g><g id="light/surface/inverse_surface" transform="translate(0, 600)">
+    <svg id="light/surface/inverse_surface" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/surface/inverse_surface" width="50" height="50" fill="#2e3137" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Inverse Surface (grey-200)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#2e3137</text>
+    </svg>
+    </g><g id="light/surface/inverse_on_surface" transform="translate(0, 660)">
+    <svg id="light/surface/inverse_on_surface" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/surface/inverse_on_surface" width="50" height="50" fill="#f1f1f3" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Inverse On Surface (grey-950)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f1f1f3</text>
+    </svg>
+    </g></g><g id="light/background" transform="translate(2500,0)"><g id="light/background/background" transform="translate(0, 0)">
+    <svg id="light/background/background" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/background/background" width="50" height="50" fill="#f3f4f5" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Background (grey-960)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f3f4f5</text>
+    </svg>
+    </g><g id="light/background/on_background" transform="translate(0, 60)">
+    <svg id="light/background/on_background" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/background/on_background" width="50" height="50" fill="#0d0e10" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Background (grey-60)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#0d0e10</text>
+    </svg>
+    </g></g><g id="light/others" transform="translate(3000,0)"><g id="light/others/outline" transform="translate(0, 0)">
+    <svg id="light/others/outline" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/others/outline" width="50" height="50" fill="#6d8691" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Outline (grey-variant-500)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#6d8691</text>
+    </svg>
+    </g><g id="light/others/outline_variant" transform="translate(0, 60)">
+    <svg id="light/others/outline_variant" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/others/outline_variant" width="50" height="50" fill="#c4ced3" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Outline Variant (grey-variant-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#c4ced3</text>
+    </svg>
+    </g><g id="light/others/scrim" transform="translate(0, 120)">
+    <svg id="light/others/scrim" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/others/scrim" width="50" height="50" fill="#000000" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Scrim (grey-0)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#000000</text>
+    </svg>
+    </g><g id="light/others/shadow" transform="translate(0, 180)">
+    <svg id="light/others/shadow" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="light/others/shadow" width="50" height="50" fill="#000000" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Shadow (grey-0)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#000000</text>
+    </svg>
+    </g></g></g><g id="dark" transform="translate(0,840)"><g id="dark/primary" transform="translate(0,0)"><g id="dark/primary/primary" transform="translate(0, 0)">
+    <svg id="dark/primary/primary" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/primary/primary" width="50" height="50" fill="#ffe999" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Primary (primary-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#ffe999</text>
+    </svg>
+    </g><g id="dark/primary/on_primary" transform="translate(0, 60)">
+    <svg id="dark/primary/on_primary" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/primary/on_primary" width="50" height="50" fill="#665000" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Primary (primary-200)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#665000</text>
+    </svg>
+    </g><g id="dark/primary/primary_container" transform="translate(0, 120)">
+    <svg id="dark/primary/primary_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/primary/primary_container" width="50" height="50" fill="#997800" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Primary Container (primary-300)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#997800</text>
+    </svg>
+    </g><g id="dark/primary/on_primary_container" transform="translate(0, 180)">
+    <svg id="dark/primary/on_primary_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/primary/on_primary_container" width="50" height="50" fill="#fef3cc" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Primary Container (primary-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#fef3cc</text>
+    </svg>
+    </g><g id="dark/primary/primary_fixed" transform="translate(0, 240)">
+    <svg id="dark/primary/primary_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/primary/primary_fixed" width="50" height="50" fill="#fef3cc" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Primary Fixed (primary-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#fef3cc</text>
+    </svg>
+    </g><g id="dark/primary/primary_fixed_dim" transform="translate(0, 300)">
+    <svg id="dark/primary/primary_fixed_dim" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/primary/primary_fixed_dim" width="50" height="50" fill="#ffe999" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Primary Fixed Dim (primary-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#ffe999</text>
+    </svg>
+    </g><g id="dark/primary/on_primary_fixed" transform="translate(0, 360)">
+    <svg id="dark/primary/on_primary_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/primary/on_primary_fixed" width="50" height="50" fill="#332800" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Primary Fixed (primary-100)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#332800</text>
+    </svg>
+    </g><g id="dark/primary/on_primary_fixed_variant" transform="translate(0, 420)">
+    <svg id="dark/primary/on_primary_fixed_variant" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/primary/on_primary_fixed_variant" width="50" height="50" fill="#997800" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Primary Fixed Variant (primary-300)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#997800</text>
+    </svg>
+    </g><g id="dark/primary/inverse_primary" transform="translate(0, 480)">
+    <svg id="dark/primary/inverse_primary" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/primary/inverse_primary" width="50" height="50" fill="#cca000" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Inverse Primary (primary-400)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#cca000</text>
+    </svg>
+    </g></g><g id="dark/secondary" transform="translate(500,0)"><g id="dark/secondary/secondary" transform="translate(0, 0)">
+    <svg id="dark/secondary/secondary" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/secondary/secondary" width="50" height="50" fill="#dd9bfc" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Secondary (secondary-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#dd9bfc</text>
+    </svg>
+    </g><g id="dark/secondary/on_secondary" transform="translate(0, 60)">
+    <svg id="dark/secondary/on_secondary" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/secondary/on_secondary" width="50" height="50" fill="#440263" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Secondary (secondary-200)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#440263</text>
+    </svg>
+    </g><g id="dark/secondary/secondary_container" transform="translate(0, 120)">
+    <svg id="dark/secondary/secondary_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/secondary/secondary_container" width="50" height="50" fill="#660395" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Secondary Container (secondary-300)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#660395</text>
+    </svg>
+    </g><g id="dark/secondary/on_secondary_container" transform="translate(0, 180)">
+    <svg id="dark/secondary/on_secondary_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/secondary/on_secondary_container" width="50" height="50" fill="#eecdfd" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Secondary Container (secondary-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#eecdfd</text>
+    </svg>
+    </g><g id="dark/secondary/secondary_fixed" transform="translate(0, 240)">
+    <svg id="dark/secondary/secondary_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/secondary/secondary_fixed" width="50" height="50" fill="#eecdfd" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Secondary Fixed (secondary-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#eecdfd</text>
+    </svg>
+    </g><g id="dark/secondary/secondary_fixed_dim" transform="translate(0, 300)">
+    <svg id="dark/secondary/secondary_fixed_dim" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/secondary/secondary_fixed_dim" width="50" height="50" fill="#dd9bfc" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Secondary Fixed Dim (secondary-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#dd9bfc</text>
+    </svg>
+    </g><g id="dark/secondary/on_secondary_fixed" transform="translate(0, 360)">
+    <svg id="dark/secondary/on_secondary_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/secondary/on_secondary_fixed" width="50" height="50" fill="#220131" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Secondary Fixed (secondary-100)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#220131</text>
+    </svg>
+    </g><g id="dark/secondary/on_secondary_fixed_variant" transform="translate(0, 420)">
+    <svg id="dark/secondary/on_secondary_fixed_variant" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/secondary/on_secondary_fixed_variant" width="50" height="50" fill="#660395" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Secondary Fixed Variant (secondary-300)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#660395</text>
+    </svg>
+    </g></g><g id="dark/tertiary" transform="translate(1000,0)"><g id="dark/tertiary/tertiary" transform="translate(0, 0)">
+    <svg id="dark/tertiary/tertiary" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/tertiary/tertiary" width="50" height="50" fill="#f3a4bc" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Tertiary (tertiary-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f3a4bc</text>
+    </svg>
+    </g><g id="dark/tertiary/on_tertiary" transform="translate(0, 60)">
+    <svg id="dark/tertiary/on_tertiary" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/tertiary/on_tertiary" width="50" height="50" fill="#5a0b23" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Tertiary (tertiary-200)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#5a0b23</text>
+    </svg>
+    </g><g id="dark/tertiary/tertiary_container" transform="translate(0, 120)">
+    <svg id="dark/tertiary/tertiary_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/tertiary/tertiary_container" width="50" height="50" fill="#871135" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Tertiary Container (tertiary-300)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#871135</text>
+    </svg>
+    </g><g id="dark/tertiary/on_tertiary_container" transform="translate(0, 180)">
+    <svg id="dark/tertiary/on_tertiary_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/tertiary/on_tertiary_container" width="50" height="50" fill="#f9d1dd" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Tertiary Container (tertiary-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f9d1dd</text>
+    </svg>
+    </g><g id="dark/tertiary/tertiary_fixed" transform="translate(0, 240)">
+    <svg id="dark/tertiary/tertiary_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/tertiary/tertiary_fixed" width="50" height="50" fill="#f9d1dd" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Tertiary Fixed (tertiary-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f9d1dd</text>
+    </svg>
+    </g><g id="dark/tertiary/tertiary_fixed_dim" transform="translate(0, 300)">
+    <svg id="dark/tertiary/tertiary_fixed_dim" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/tertiary/tertiary_fixed_dim" width="50" height="50" fill="#f3a4bc" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Tertiary Fixed Dim (tertiary-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f3a4bc</text>
+    </svg>
+    </g><g id="dark/tertiary/on_tertiary_fixed" transform="translate(0, 360)">
+    <svg id="dark/tertiary/on_tertiary_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/tertiary/on_tertiary_fixed" width="50" height="50" fill="#2d0511" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Tertiary Fixed (tertiary-100)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#2d0511</text>
+    </svg>
+    </g><g id="dark/tertiary/on_tertiary_fixed_variant" transform="translate(0, 420)">
+    <svg id="dark/tertiary/on_tertiary_fixed_variant" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/tertiary/on_tertiary_fixed_variant" width="50" height="50" fill="#871135" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Tertiary Fixed Variant (tertiary-300)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#871135</text>
+    </svg>
+    </g></g><g id="dark/error" transform="translate(1500,0)"><g id="dark/error/error" transform="translate(0, 0)">
+    <svg id="dark/error/error" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/error/error" width="50" height="50" fill="#f3a4bc" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Error (tertiary-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f3a4bc</text>
+    </svg>
+    </g><g id="dark/error/on_error" transform="translate(0, 60)">
+    <svg id="dark/error/on_error" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/error/on_error" width="50" height="50" fill="#5a0b23" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Error (tertiary-200)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#5a0b23</text>
+    </svg>
+    </g><g id="dark/error/error_container" transform="translate(0, 120)">
+    <svg id="dark/error/error_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/error/error_container" width="50" height="50" fill="#871135" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Error Container (tertiary-300)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#871135</text>
+    </svg>
+    </g><g id="dark/error/on_error_container" transform="translate(0, 180)">
+    <svg id="dark/error/on_error_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/error/on_error_container" width="50" height="50" fill="#f9d1dd" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Error Container (tertiary-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f9d1dd</text>
+    </svg>
+    </g><g id="dark/error/error_fixed" transform="translate(0, 240)">
+    <svg id="dark/error/error_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/error/error_fixed" width="50" height="50" fill="#f9d1dd" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Error Fixed (tertiary-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f9d1dd</text>
+    </svg>
+    </g><g id="dark/error/error_fixed_dim" transform="translate(0, 300)">
+    <svg id="dark/error/error_fixed_dim" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/error/error_fixed_dim" width="50" height="50" fill="#f3a4bc" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Error Fixed Dim (tertiary-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f3a4bc</text>
+    </svg>
+    </g><g id="dark/error/on_error_fixed" transform="translate(0, 360)">
+    <svg id="dark/error/on_error_fixed" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/error/on_error_fixed" width="50" height="50" fill="#2d0511" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Error Fixed (tertiary-100)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#2d0511</text>
+    </svg>
+    </g><g id="dark/error/on_error_fixed_variant" transform="translate(0, 420)">
+    <svg id="dark/error/on_error_fixed_variant" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/error/on_error_fixed_variant" width="50" height="50" fill="#871135" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Error Fixed Variant (tertiary-300)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#871135</text>
+    </svg>
+    </g></g><g id="dark/surface" transform="translate(2000,0)"><g id="dark/surface/surface_dim" transform="translate(0, 0)">
+    <svg id="dark/surface/surface_dim" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/surface/surface_dim" width="50" height="50" fill="#2e3137" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface Dim (grey-200)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#2e3137</text>
+    </svg>
+    </g><g id="dark/surface/surface" transform="translate(0, 60)">
+    <svg id="dark/surface/surface" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/surface/surface" width="50" height="50" fill="#0d0e10" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface (grey-60)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#0d0e10</text>
+    </svg>
+    </g><g id="dark/surface/surface_bright" transform="translate(0, 120)">
+    <svg id="dark/surface/surface_bright" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/surface/surface_bright" width="50" height="50" fill="#373b42" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface Bright (grey-240)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#373b42</text>
+    </svg>
+    </g><g id="dark/surface/surface_container_lowest" transform="translate(0, 180)">
+    <svg id="dark/surface/surface_container_lowest" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/surface/surface_container_lowest" width="50" height="50" fill="#09090b" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface Container Lowest (grey-40)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#09090b</text>
+    </svg>
+    </g><g id="dark/surface/surface_container_low" transform="translate(0, 240)">
+    <svg id="dark/surface/surface_container_low" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/surface/surface_container_low" width="50" height="50" fill="#17181b" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface Container Low (grey-100)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#17181b</text>
+    </svg>
+    </g><g id="dark/surface/surface_container" transform="translate(0, 300)">
+    <svg id="dark/surface/surface_container" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/surface/surface_container" width="50" height="50" fill="#1b1d21" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface Container (grey-120)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#1b1d21</text>
+    </svg>
+    </g><g id="dark/surface/surface_container_high" transform="translate(0, 360)">
+    <svg id="dark/surface/surface_container_high" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/surface/surface_container_high" width="50" height="50" fill="#272a2f" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface Container High (grey-170)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#272a2f</text>
+    </svg>
+    </g><g id="dark/surface/surface_container_highest" transform="translate(0, 420)">
+    <svg id="dark/surface/surface_container_highest" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/surface/surface_container_highest" width="50" height="50" fill="#33363d" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Surface Container Highest (grey-220)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#33363d</text>
+    </svg>
+    </g><g id="dark/surface/on_surface" transform="translate(0, 480)">
+    <svg id="dark/surface/on_surface" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/surface/on_surface" width="50" height="50" fill="#e3e4e7" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Surface (grey-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#e3e4e7</text>
+    </svg>
+    </g><g id="dark/surface/on_surface_variant" transform="translate(0, 540)">
+    <svg id="dark/surface/on_surface_variant" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/surface/on_surface_variant" width="50" height="50" fill="#c4ced3" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Surface Variant (grey-variant-800)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#c4ced3</text>
+    </svg>
+    </g><g id="dark/surface/inverse_surface" transform="translate(0, 600)">
+    <svg id="dark/surface/inverse_surface" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/surface/inverse_surface" width="50" height="50" fill="#e3e4e7" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Inverse Surface (grey-900)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#e3e4e7</text>
+    </svg>
+    </g><g id="dark/surface/inverse_on_surface" transform="translate(0, 660)">
+    <svg id="dark/surface/inverse_on_surface" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/surface/inverse_on_surface" width="50" height="50" fill="#2e3137" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Inverse On Surface (grey-200)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#2e3137</text>
+    </svg>
+    </g></g><g id="dark/background" transform="translate(2500,0)"><g id="dark/background/background" transform="translate(0, 0)">
+    <svg id="dark/background/background" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/background/background" width="50" height="50" fill="#0d0e10" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Background (grey-60)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#0d0e10</text>
+    </svg>
+    </g><g id="dark/background/on_background" transform="translate(0, 60)">
+    <svg id="dark/background/on_background" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/background/on_background" width="50" height="50" fill="#f3f4f5" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">On Background (grey-960)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#f3f4f5</text>
+    </svg>
+    </g></g><g id="dark/others" transform="translate(3000,0)"><g id="dark/others/outline" transform="translate(0, 0)">
+    <svg id="dark/others/outline" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/others/outline" width="50" height="50" fill="#8a9ea7" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Outline (grey-variant-600)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#8a9ea7</text>
+    </svg>
+    </g><g id="dark/others/outline_variant" transform="translate(0, 60)">
+    <svg id="dark/others/outline_variant" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/others/outline_variant" width="50" height="50" fill="#415057" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Outline Variant (grey-variant-300)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#415057</text>
+    </svg>
+    </g><g id="dark/others/scrim" transform="translate(0, 120)">
+    <svg id="dark/others/scrim" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/others/scrim" width="50" height="50" fill="#000000" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Scrim (grey-0)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#000000</text>
+    </svg>
+    </g><g id="dark/others/shadow" transform="translate(0, 180)">
+    <svg id="dark/others/shadow" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect id="dark/others/shadow" width="50" height="50" fill="#000000" x="0" y="0" rx="4" ry="4"/>
+        <text x="60" y="25" fill="black" font-size="14" font-family="Arial" dominant-baseline="middle">Shadow (grey-0)</text>
+        <text x="60" y="40" fill="black" font-size="10" font-family="Arial" dominant-baseline="middle">#000000</text>
+    </svg>
+    </g></g></g></svg>

@@ -1,0 +1,76 @@
+/* Base settings */
+body {
+  font-family: "Roboto", sans-serif; /* Example font */
+}
+
+/* Font weight categories */
+.bold {
+  font-weight: 700; /* Typically 700 */
+}
+
+.regular {
+  font-weight: 400; /* Typically 400 */
+}
+
+.light {
+  font-weight: 300;
+}
+
+/* Body text */
+.body-small {
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.body-medium {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.body-large {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Caption Text */
+.caption {
+  font-size: 10px;
+  line-height: 1.2;
+}
+
+/* Headings */
+h1 {
+  font-size: 36px;
+  line-height: 1.2;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 1.25;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 28px; /* Slightly smaller than h2 */
+  line-height: 1.3;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 24px; /* Slightly smaller than h3 */
+  line-height: 1.35;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: 20px; /* Slightly smaller than h4 */
+  line-height: 1.4;
+  font-weight: bold;
+}
+
+h6 {
+  font-size: 16px; /* Same as .body-large but bold */
+  line-height: 1.4;
+  font-weight: bold;
+}
